@@ -6,10 +6,10 @@
 Revolutionary way to share collections of web content.
 
 Team
-  - Product Owner: Jack Lu (JackTanRoo)
-  - Scrum Master: Andrew Brassington (jabbrass)
-  - Bo Liu (liubolightning)
-  - Daniel Streit (danielstreit)
+  - Product Owner: Jimmy Jea
+  - Scrum Master: Jarrod Ruhlan
+  - Issaq Al-Ahmed
+  - Kim Marquardt
 
 Table of Contents
 
